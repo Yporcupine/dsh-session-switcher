@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "会话切换器",
+    "description": "按住 Ctrl 敲 Tab，从最近查看会话的浮动列表中选择，松开 Ctrl 打开高亮会话；Ctrl+Shift+Tab 反向切换。"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session Switcher",
+    "description": "Hold Ctrl and tap Tab to pick from a floating list of recently viewed sessions; release Ctrl to open the highlighted one. Ctrl+Shift+Tab cycles backwards."
+  }
+}

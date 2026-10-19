@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Local environment and secrets
+.env*
+
+# Package tarballs created by `npm pack` / `pnpm pack`
+*.tgz
